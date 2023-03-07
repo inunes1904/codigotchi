@@ -1,0 +1,2 @@
+# codigotchi
+A tamagotchi simulation
